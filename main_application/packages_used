@@ -1,0 +1,13 @@
+1. langchain==0.0.284: LangChain is a library designed for creating applications using language models. It provides tools for building chains of components that process and generate text, making it easier to create complex natural language processing (NLP) applications.
+
+2. python-dotenv==1.0.0: This package allows you to manage environment variables in your Python applications. It loads environment variables from a .env file, which is useful for keeping sensitive information like API keys or database credentials separate from your codebase.
+
+3. streamlit==1.22.0: Streamlit is a popular library for creating interactive web applications and dashboards with minimal code. It's commonly used for building data apps and visualizations, and it's designed to be easy to use and integrate with other Python libraries.
+
+4. tiktoken==0.4.0: Tiktoken is a library for tokenizing text, specifically optimized for OpenAI's GPT models. It helps in processing text by converting it into tokens, which are the units of text that models use to understand and generate language.
+
+5. faiss-cpu==1.7.4: FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors. faiss-cpu is the CPU-only version of this library, which is used to perform operations like nearest neighbor search on large datasets.
+
+6. protobuf~=3.19.0: Protobuf (Protocol Buffers) is a language-neutral, platform-neutral, extensible mechanism for serializing structured data. It is used to serialize data in a compact and efficient format and is commonly used in communication protocols and data storage.
+
+7. google-generativeai: This package is likely related to Google's generative AI technologies. It might include tools or libraries for working with Google’s models and APIs for generating text, images, or other content using AI. The specific features would depend on the version and documentation provided by Google.
