@@ -1,0 +1,7 @@
+1. Install the requirements using:
+pip install -r requirements.txt
+
+2. Change the directories path and the google palm API key in application script
+
+3. Run the app using command:
+streamlit run final_app.py
