@@ -43,4 +43,4 @@ Our Smart Home Efficiency platform:
 - **Expanding Device Compatibility**: Integrating more types of smart home devices for a thorough energy efficiency assessment.
 - **Enhancing Features**: Adding more detailed insights and personalized recommendations based on user behavior and preferences.
 
-```bash
+
