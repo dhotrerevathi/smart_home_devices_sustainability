@@ -31,7 +31,7 @@ Our Smart Home Efficiency platform:
 - **User-Friendly Interface**: Created a platform that is both visually appealing and easy to navigate.
 - **Comprehensive Solution**: Developed a tool that not only assesses energy efficiency but also provides actionable recommendations for improvement.
 
-## 📚 What We Learned
+## 📚 Key Takeaways
 
 - **Data is Key**: Effective machine learning models depend on high-quality, relevant data.
 - **User-Centric Design**: Prioritizing user experience and feedback is essential for success.
